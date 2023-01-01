@@ -8,6 +8,6 @@ It uses:
 * Accuracy metric computes acccuracy using log cosh Error Regression (commonly used built in func)
     
 Output:
-* 3 iterations resulted in accuracy ≈ 0.9762
+* 3 epochs (iterations) resulted in accuracy ≈ 0.9762
     
 P.S. Trained model is also inluded in source files as 'demo.model'
