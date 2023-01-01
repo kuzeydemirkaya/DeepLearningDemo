@@ -1,5 +1,5 @@
 Basic DeepLearning model in Python that predicts numbers form handritten number dataset
-
+___
 It uses:
 * Rectified Linear Unit (ReLU) as an activation function
 * Softmax funtion to transform the output to a probability distribution. It is also differentiable, which means that it can be used in conjunction with optimization algorithms such as stochastic gradient descent (SGD) or Adam (Adaptive Moment Estimation)
