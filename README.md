@@ -10,5 +10,5 @@ ___
 ## Output:
 * 3 epochs (iterations) resulted in accuracy ≈ 0.9762
     
-__
+___
 P.S. Trained model is also inluded in source files as 'demo.model'
